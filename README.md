@@ -1,19 +1,16 @@
-# 🎈 Blank app template
+# ⛽ Gwei Converter Web App
 
-A simple Streamlit app template for you to modify!
+Konversi Gwei (unit gas fee di Ethereum) ke ETH, USD, dan IDR secara **real-time** dan **interaktif** dengan antarmuka web berbasis **Streamlit**.
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://blank-app-template.streamlit.app/)
+![Streamlit App Screenshot](https://raw.githubusercontent.com/your-username/gwei-converter/main/screenshot.png) <!-- Ganti URL jika ada -->
 
-### How to run it on your own machine
+---
 
-1. Install the requirements
+## ✨ Fitur
 
-   ```
-   $ pip install -r requirements.txt
-   ```
+- 🔄 Konversi Gwei ke ETH, USD, dan IDR
+- 📡 Ambil harga ETH secara **real-time** dari [CoinGecko API]
+- 💰 Input manual atau default kurs USD ke IDR
+- 🖥️ Antarmuka web yang ringan dan mudah digunakan (Streamlit)
 
-2. Run the app
-
-   ```
-   $ streamlit run streamlit_app.py
-   ```
+---
