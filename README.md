@@ -2,7 +2,7 @@
 
 Konversi Gwei (unit gas fee di Ethereum) ke ETH, USD, dan IDR secara **real-time** dan **interaktif** dengan antarmuka web berbasis **Streamlit**.
 
-![Streamlit App Screenshot](https://raw.githubusercontent.com/your-username/gwei-converter/main/screenshot.png) <!-- Ganti URL jika ada -->
+![Streamlit App Screenshot](https://github.com/Pixel4bit/gwei-to-usd/blob/main/Screenshot.png)
 
 ---
 
